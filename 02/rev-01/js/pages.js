@@ -8,5 +8,6 @@ document.querySelector("#pages-list").addEventListener("click", e => {
   pagesList.removeChild(e.target.parentNode.parentNode);
 });
 
+// responsive search functionality
 
 //---------------------------------------------------------------------------------
